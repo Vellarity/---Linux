@@ -1,0 +1,28 @@
+# Logfile created on 2021-01-02 15:53:55 +0300 by logger.rb/v1.4.2
+[2021-01-02 12:55:41 UTC  APPLICATION  ] Metasploit Pro UI started.
+[2021-01-02 12:58:06 UTC      USER     ] 127.0.0.1 - student - Creating initial admin user: {"username"=>"student", "email"=>""}.
+[2021-01-02 13:03:17 UTC  APPLICATION  ] Metasploit Pro Worker started.
+[2021-01-02 13:11:06 UTC     ADMIN     ] 127.0.0.1 - student - License activated. {"product_serial"=>"5ff06ce0-c9459110-f069af29", "product_type"=>"Metasploit Pro", "product_version"=>"4.19.0", "product_orig_version"=>"4.19.0", "product_revision"=>"2020120701", "footer_revision"=>"2020120701", "product_date"=>"2020-12-07", "version_verified"=>false, "product_key"=>"VY47-5S97-GHJ8-87ER", "email"=>"dagimi4527@cocyo.com", "users"=>3, "hardware"=>false, "perpetual"=>false, "backup_available"=>false, "activated"=>true, "registered"=>true, "expired"=>false, "expiration"=>"2021-01-16T03:00:00.000+03:00", "error"=>nil}
+[2021-01-02 13:32:50 UTC      USER     ] 127.0.0.1 - student - Project TEST2 created with access granted to []
+[2021-01-02 14:28:38 UTC AUTHENTICATION] 127.0.0.1 - student - Session timeout.
+[2021-01-02 14:28:38 UTC AUTHENTICATION] 127.0.0.1 - student - Session timeout.
+[2021-01-02 14:31:46 UTC AUTHENTICATION] 127.0.0.1 - student - Successful login.
+[2021-01-02 15:01:47 UTC AUTHENTICATION] 127.0.0.1 - student - Session timeout.
+[2021-01-02 15:06:55 UTC AUTHENTICATION] 127.0.0.1 - [NONE] - Failed login. Invalid username or password.
+[2021-01-02 15:07:00 UTC AUTHENTICATION] 127.0.0.1 - student - Successful login.
+[2021-01-02 15:37:18 UTC AUTHENTICATION] 127.0.0.1 - student - Session timeout.
+[2021-01-02 17:15:24 UTC AUTHENTICATION] 127.0.0.1 - student - Successful login.
+[2021-01-02 17:45:33 UTC AUTHENTICATION] 127.0.0.1 - student - Session timeout.
+[2021-01-03 00:08:16 UTC  APPLICATION  ] Metasploit Pro Worker stopped.
+[2021-01-03 00:08:17 UTC  APPLICATION  ] Metasploit Pro UI stopped.
+[2021-01-03 13:41:27 UTC  APPLICATION  ] Metasploit Pro UI started.
+[2021-01-03 13:50:32 UTC  APPLICATION  ] Metasploit Pro Worker started.
+[2021-01-03 15:55:58 UTC AUTHENTICATION] 127.0.0.1 - student - Successful login.
+[2021-01-03 16:28:36 UTC AUTHENTICATION] 127.0.0.1 - student - Session timeout.
+[2021-01-03 17:03:52 UTC AUTHENTICATION] 127.0.0.1 - [NONE] - Failed login. Invalid username or password.
+[2021-01-03 17:04:00 UTC AUTHENTICATION] 127.0.0.1 - student - Successful login.
+[2021-01-03 17:34:19 UTC AUTHENTICATION] 127.0.0.1 - student - Session timeout.
+[2021-01-04 01:37:19 UTC  APPLICATION  ] Metasploit Pro Worker stopped.
+[2021-01-04 01:37:19 UTC  APPLICATION  ] Metasploit Pro UI stopped.
+[2021-01-04 12:02:04 UTC  APPLICATION  ] Metasploit Pro UI started.
+[2021-01-04 12:11:02 UTC  APPLICATION  ] Metasploit Pro Worker started.
